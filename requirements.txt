@@ -1,0 +1,7 @@
+flask==3.0.0
+flask-socketio==5.3.5
+opencv-python==4.8.1.78
+ultralytics==8.1.20
+torch>=2.0.0
+torchvision>=0.15.0
+numpy==1.24.3
